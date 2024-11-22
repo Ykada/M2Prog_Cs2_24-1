@@ -4,4 +4,4 @@
     - begin dus bij `01 functions`
         - open dan de eerste `.md` in dit geval `00 git.md`
     - volg nu de stappen
-    Hello World
+    Hello World hi
