@@ -1,7 +1,3 @@
 # M2Prog_Cs2_24
 
-- maak de opdrachten door de mappen van boven naar beneden af te gaan
-    - begin dus bij `01 functions`
-        - open dan de eerste `.md` in dit geval `00 git.md`
-    - volg nu de stappen
-    Hello World hi
+![image](https://github.com/user-attachments/assets/500dbbf0-3a27-42d6-8ed1-2f20c29dd58d)
