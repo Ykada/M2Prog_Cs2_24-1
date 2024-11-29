@@ -1,3 +1,2 @@
 # M2Prog_Cs2_24
-
-![image](https://github.com/user-attachments/assets/500dbbf0-3a27-42d6-8ed1-2f20c29dd58d)
+![image](https://github.com/user-attachments/assets/bf7b87b2-a762-4a29-a92c-8b2ecea0a833)
