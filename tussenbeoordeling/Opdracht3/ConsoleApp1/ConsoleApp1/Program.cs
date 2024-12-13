@@ -6,6 +6,6 @@
         {
             Console.WriteLine("Hello, World!");
         }
-        
+        Quiz.VoegVraagToeOpIndex(0, quizvraag);
     }
 }
