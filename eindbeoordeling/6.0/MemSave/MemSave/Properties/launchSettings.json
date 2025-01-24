@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MemSave": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
